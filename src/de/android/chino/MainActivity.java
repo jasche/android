@@ -1,5 +1,6 @@
-package com.mycompany.myapp;
+package de.android.chino;
 
+import de.android.chino.R;
 import android.app.*;
 import android.os.*;
 import android.view.*;
